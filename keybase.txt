@@ -1,0 +1,71 @@
+
+==================================================================
+https://keybase.io/macariolobo
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://macariolobo.github.io
+  * I am macariolobo (https://keybase.io/macariolobo) on keybase.
+  * I have a public key with fingerprint 793C 8EC9 BBDB 5CBE FC43  DE8A 7390 1EE9 F915 5F97
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01015ac793ef9475a613475e8c4dc665b2d91d661e7123b51087ea48430cdd2dfe5c0a",
+      "fingerprint": "793c8ec9bbdb5cbefc43de8a73901ee9f9155f97",
+      "host": "keybase.io",
+      "key_id": "73901ee9f9155f97",
+      "kid": "01015ac793ef9475a613475e8c4dc665b2d91d661e7123b51087ea48430cdd2dfe5c0a",
+      "uid": "4c8965bf482c70c1690cfdefa878e819",
+      "username": "macariolobo"
+    },
+    "service": {
+      "hostname": "macariolobo.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1602244088,
+  "expire_in": 157680000,
+  "prev": "9951fd8954e376b3b95c900383a4345f62d55e7322c7bd7caf0febf992460234",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMItAnicrVJbSBRRGJ7VMtQszTCrl5oyzVab+8xZDZUiSrOLhqQp68yZMzqsO7Pu
+znpbtDIpk4p8SPDBwgslPZhgEEUP3iokg4oiMCMf7EkhDKSSsM5YPdVj5+XnnPN9
+3/99P/94TDgR5ejPm6obm7k46Hg20hsk3Gfzv4ZIxVTrSVeI9KCVgqpUFLDcHl0l
+XSRFUzQvQxGwSAOcyMsCzeKCJMipUBB4hVEBrQoCjUSaYRWepiQRyZzEsRRUVUbV
+EA8pmXSSmm5UIL/PrxsWlsV6UEIQKIqq8FBBGuRYFUmyyAKKRghogOZ5DYiYWGkG
+bAY2p8gBlK6b+A1f3Cv2/oH/z76DK3IclAAmaZzEQJGCtAAoqKlIkyVRQhINbGAA
++Q3ZizDaK0PZr5tVpmKSjU4Sf9ToENmztcP8DUqv0K3KoPIrm89vWiY0qzCk0rJ8
+AZctYdX7bE4tUty/1dyKbqh4pphRg/wB3TRIF42R0NJteVqgGIbjKElykqjOp/uR
+W7cRvChIFD52H1SDJQHgaU2VAM8hVhQUVgE8BBTFSqzMsRyvCYzK80hkGRxcUUUo
+a5SGFA0AhsMtWI6081UbJunisE25AksG9ApDtoJ+RDaODpeuIhxRRMTqMHvXiKjI
+2D8b2Fa3Zhk4Quj9l3Yi89hEzlDPrhFjOxs9uD7nQdH5mc+jqe7cgw1XL11PvaU1
+1P6wHEdPtj1+mxO+u63b2Xwj6UpT+f2F7O5DrxNbMxpqR09817p7l+6WsEJkYcLp
+/Ee3yyaTp18eHpidcM7Md3W1eLe2PNkYIML4GYLoTiuM2xY6MpfWMVbcWhL0hJVv
+aIiN7+86d7P0Wvyyu6l5y5uElObgx+RNA01xi6UR8zvvZW1OKW7Zm9vxcLTrTHR1
+xlD5t4K5zj3eUGbf9FPh3eV1WZ7Jzh0F4UkHXy2s7WiefnH8zsL+3ojsxZhTWZ7E
+vAtlhLfvw/P2yqn08dym2Yx9w0VLxqcDiT0/AYJ6Po0=
+=lukh
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/macariolobo
+
+==================================================================
+
+
